@@ -3,18 +3,18 @@ A machine learning project predicts house prices based on various property featu
 
 ✨Features:
 
--📊 Data cleaning and preprocessing
--🔍 Exploratory Data Analysis (EDA)
--⚙️ Feature engineering and selection
--🤖 Machine learning model training
--📈 Model evaluation and performance comparison
--🏠 House price prediction on new data
+-📊 Data cleaning and preprocessing     
+-🔍 Exploratory Data Analysis (EDA)     
+-⚙️ Feature engineering and selection    
+-🤖 Machine learning model training    
+-📈 Model evaluation and performance comparison   
+-🏠 House price prediction on new data    
 
 🛠️Methods used:
 
--Python
--Pandas
--NumPy
+-Python        
+-Pandas        
+-NumPy       
 -Matplotlib
 
 🎯Goal: 

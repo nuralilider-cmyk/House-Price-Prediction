@@ -26,15 +26,14 @@ Build a reliable model to estimate real estate prices and understand the factors
 
 1. Download the dataset
 
-  This Dataset can be downloaded right here:
-  [House_Price.csv](./House_Price.csv)
+    This Dataset can be downloaded right here:
+    [House_Price.csv](./House_Price.csv)
 
-  You can also get it using:
-  ```bash
-  import kagglehub
-
-  path = kagglehub.dataset_download("kuntalmaity/house-price")
-  ```
+    You can also get it using:
+    ```bash
+    import kagglehub
+    path = kagglehub.dataset_download("kuntalmaity/house-price")
+    ```
 
 2. Install dependencies:
 

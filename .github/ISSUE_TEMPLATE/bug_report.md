@@ -1,5 +1,5 @@
 ---
-name: ''
+name: name
 about: create a bug report
 title: ''
 labels: ''

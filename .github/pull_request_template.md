@@ -13,8 +13,4 @@ Please delete options that are not relevant.
 - [ ] Documentation update  
 - [ ] Refactor
 
-## Checklist
-
-- [ ] I have tested my code
-- [ ] I have added necessary documentation
-- [ ] My code follows the project's code style
+Hopefully i will be able to look into the pull request and fix the issue
